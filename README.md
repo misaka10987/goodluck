@@ -1,0 +1,2 @@
+# goodluck
+Dice expression evaluator
